@@ -1,4 +1,4 @@
-# How to run fci bss portal
+<!-- # How to run fci bss portal
 
 ## Prerequisites
 
@@ -249,4 +249,4 @@ python index_dev.py
 
 
 
-
+ -->
